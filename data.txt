@@ -1,0 +1,23 @@
+module Core
+
+writeFileSync => digunakan untuk menulis suatu isi file secara Sync
+writeFile => digunakan untuk menulis suatu isi file secara Async
+readFileSync => digunakan unutuk membaca suatu isi file secara Sync
+readFile => digunakan unutuk membaca suatu isi file secara Async
+ReadLine.createInterface => digunkan untuk membuat tampilan questions di commainprome
+question => digunakan untuk membuat suatu pertanyaan di commainprome
+close() => digunakan untuk menghentikan proses ReadLine 
+
+
+
+
+
+
+
+
+
+// veryfikasi google
+# client ID : 1026033112052-4reo8vnlmlffm0p24778ffv7o610rctk.apps.googleusercontent.com
+# client SECREAT : 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
+
+https://developers.google.com/identity/protocols/oauth2/web-server?hl=id
